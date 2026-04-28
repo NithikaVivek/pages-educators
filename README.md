@@ -202,6 +202,21 @@ For easier build failure logging, run:
 python _projects/make-helper/run_make.py
 ```
 
+## Make debugger in terminal
+
+Need help with make? Run this debugger in terminal
+
+```bash
+pip install -r make-debug/requirements.txt
+```
+
+## HOW TO RUN PROGRAM
+
+```bash
+python make-debug/run.py
+```
+
+
 ### Load web application into the Browser
 
 Start the preview server in the terminal,
